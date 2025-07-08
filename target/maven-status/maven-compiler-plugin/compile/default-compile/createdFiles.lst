@@ -1,0 +1,8 @@
+com\mycompany\bookstore\BookStore.class
+com\mycompany\bookstore\Main.class
+com\mycompany\bookstore\Book.class
+com\mycompany\bookstore\ShippingService.class
+com\mycompany\bookstore\EBook.class
+com\mycompany\bookstore\ShowcaseBook.class
+com\mycompany\bookstore\MailService.class
+com\mycompany\bookstore\PaperBook.class
